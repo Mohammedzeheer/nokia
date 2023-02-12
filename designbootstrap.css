@@ -1,0 +1,10 @@
+.grading{
+background: rgb(2,0,36);
+width:100%;
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 0%, rgba(0,212,255,0) 67%);
+background-image: url('https://www.nokia.com/sites/default/files/styles/scale_1920_width/public/2023-01/1120x560_banner-1120.jpg');
+}
+
+.card.img:hover:hover{
+    transform: scale(1.05);
+}
